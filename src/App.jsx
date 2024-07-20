@@ -6,9 +6,9 @@ import Results from "./components/Results";
 
 function App() {
   const [userInput, setUserInput] = useState({
-    initialInvestment: 10000,
-    annualInvestment: 1200,
-    expectedReturn: 6,
+    initialInvestment: 100000,
+    annualInvestment: 25000,
+    expectedReturn: 8,
     duration: 10
   });
 
